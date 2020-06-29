@@ -182,8 +182,8 @@ client6.on('message', message => {
 
 client.on('message', message => {
 if (message.content === prefix+'fast') {
-      let count = 0;
-      let ecount = 0;
+      let count = 5;
+      let ecount = 5;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`**شلون الحجي **[ " ${x} " ]`)
           .then(m => {
@@ -196,8 +196,8 @@ if (message.content === prefix+'fast') {
 
 client2.on('message', message => {
 if (message.content === prefix+'fast') {
-      let count = 0;
-      let ecount = 0;
+      let count = 5;
+      let ecount = 5;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`**الحجي زين **[ " ${x} " ]`)
           .then(m => {
@@ -210,8 +210,8 @@ if (message.content === prefix+'fast') {
 
 client3.on('message', message => {
 if (message.content === prefix+'fast') {
-      let count = 0;
-      let ecount = 0;
+      let count = 5;
+      let ecount = 5;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`**انت شلونك **[ " ${x} " ]`)
           .then(m => {
@@ -224,8 +224,8 @@ if (message.content === prefix+'fast') {
 
 client4.on('message', message => {
 if (message.content === prefix+'fast') {
-      let count = 0;
-      let ecount = 0;
+      let count = 5;
+      let ecount = 5;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`**مو زين **[ " ${x} " ]`)
           .then(m => {
@@ -238,8 +238,8 @@ if (message.content === prefix+'fast') {
 
 client5.on('message', message => {
 if (message.content === prefix+'fast') {
-      let count = 0;
-      let ecount = 0;
+      let count = 5;
+      let ecount = 5;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`**زين **[ " ${x} " ]`)
           .then(m => {
@@ -252,8 +252,8 @@ if (message.content === prefix+'fast') {
 
 client6.on('message', message => {
 if (message.content === prefix+'fast') {
-      let count = 0;
-      let ecount = 0;
+      let count = 5;
+      let ecount = 5;
       for(let x = 0; x < 30000; x++) {
         message.channel.send(`**زين **[ " ${x} " ]`)
           .then(m => {
