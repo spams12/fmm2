@@ -185,7 +185,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**شلون الحجي **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -199,7 +199,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**الحجي زين **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -213,7 +213,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**انت شلونك **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -227,7 +227,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**مو زين **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -241,7 +241,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**زين **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -255,7 +255,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**زين **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
